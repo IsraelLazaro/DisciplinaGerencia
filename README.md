@@ -1,2 +1,2 @@
-# DisciplinaGerencia
+# DisciplinaGerencia [![issues](https://img.shields.io/github/issues/IsraelLazaro/DisciplinaGerencia)](https://github.com/IsraelLazaro/DisciplinaGerencia) [![forks](https://img.shields.io/github/forks/IsraelLazaro/DisciplinaGerencia)](https://img.shields.io/github/forks/IsraelLazaro/DisciplinaGerencia) [![star](https://img.shields.io/github/stars/IsraelLazaro/DisciplinaGerencia)](https://img.shields.io/github/stars/IsraelLazaro/DisciplinaGerencia)
 Estudando Gerencia de Configuração e Mudança
